@@ -66,3 +66,5 @@ secrets.yaml
 
 # LambdaTest
 main/utils/device_capabilities/lambda_capabilities.json
+
+.trackify.jsonl
