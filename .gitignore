@@ -63,3 +63,6 @@ local_settings.py
 # Credentials
 credentials.json
 secrets.yaml
+
+# LambdaTest
+main/utils/device_capabilities/lambda_capabilities.json
