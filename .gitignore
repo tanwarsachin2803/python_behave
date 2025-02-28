@@ -25,6 +25,7 @@ reports/
 screenshots/
 logs/
 *.log
+*.jsonl
 
 # Behave specific
 allure-results/
