@@ -1,0 +1,39 @@
+{
+    "local": {
+      "platformName": "Android",
+      "deviceName": "emulator-5554", 
+      "automationName": "UiAutomator2",
+      "platformVersion": "15.0",
+      "autoGrantPermissions": true,
+      "newCommandTimeout": 3600
+    },
+
+    "virtual": {
+      "platformName": "Android",
+      "deviceName": "Pixel 8",
+      "platformVersion": "14.0", 
+      "app": "lt://APP10160501071738846460421743",
+      "deviceOrientation": "portrait",
+      "visual": true,
+      "video": true,
+      "statusLogs": true,
+      "videoQuality": "high",
+      "console": "true",
+      "timezone": "UTC",
+      "build": "Android tests",
+      "name": "${TEST_NAME}",
+      "network": false,
+      "idleTimeout": 120,
+      "appiumVersion": "2.0",
+      "isRealMobile": true,
+      "autoAcceptAlerts": true,
+      "queueTimeout": 300,
+      "devicelog": true,
+      "lat": 28.6139,
+      "long": 77.2090,
+      "appProfiling": false,
+      "lambda:options": {
+        "status": "passed"
+      }
+    }
+}

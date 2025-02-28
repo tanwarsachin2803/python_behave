@@ -1,0 +1,65 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Test execution artifacts
+reports/
+screenshots/
+logs/
+*.log
+
+# Behave specific
+allure-results/
+allure-report/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment variables
+.env
+.env.local
+
+# Dependency management
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Coverage reports
+.coverage
+coverage.xml
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Local development settings
+local_settings.py
+
+# Database
+*.db
+*.sqlite3
+
+# Credentials
+credentials.json
+secrets.yaml

@@ -1,0 +1,17 @@
+{
+    "local":{
+        "browserName": "firefox",
+        "platform": "ANY",
+        "version": "latest",
+        "host": "localhost",
+        "port": "4444"
+    },
+    "virtual":{
+        "browserName": "firefox",
+        "platform": "ANY",
+        "version": "latest",
+        "host": "localhost",
+        "port": "4444"
+    }
+  }
+  

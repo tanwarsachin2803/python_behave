@@ -1,0 +1,5 @@
+locator,android_locator,ios_locator,web_locator
+phone_number_field,"xpath=//*[@resource-id='enter-mobile-number']","xpath=//XCUIElementTypeTextField[@name='username']","id=APjFqb",
+continue_button,"xpath=((//android.widget.TextView[contains(@text, 'Continue')])/parent::android.view.ViewGroup)/parent::android.view.ViewGroup","xpath=//XCUIElementTypeButton[@name='continue']",
+verify_otp_button,"xpath=((//android.widget.TextView[contains(@text, 'Verify OTP')])/parent::android.view.ViewGroup)/parent::android.view.ViewGroup","xpath=//XCUIElementTypeButton[@name='Verify OTP']",
+skip_button,"xpath=//android.view.ViewGroup[@resource-id='skip']","",""

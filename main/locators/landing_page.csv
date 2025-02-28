@@ -1,0 +1,11 @@
+locator,android_locator,ios_locator,web_locator
+text_field,"xpath=//android.widget.EditText[@content-desc='username']","xpath=//XCUIElementTypeTextField[@name='username']","id=APjFqb",
+google_search_button,"xpath=//android.widget.Button[@content-desc='submit']","xpath=//XCUIElementTypeButton[@name='submit']","xpath=//input[@value='Google Search']",
+cancel_button,"android_locator","ios_locator","xpath=/html/body/div[1]/div[3]/form/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div",
+more_option,"","","id=wsite-nav-more-a",
+login_link,"","","xpath=//a[text()='Login']",
+frame_locator,"","","name=studioyou-iframe",,
+notification_popup_text,"id=com.android.permissioncontroller:id/permission_message","",
+notification_popup_allow_button,"id=com.android.permissioncontroller:id/permission_allow_button","","",
+notification_popup_deny_button,"id=com.android.permissioncontroller:id/permission_deny_button","","",
+continue_button,"xpath=((//android.widget.TextView[contains(@text, 'Continue')])/parent::android.view.ViewGroup)/parent::android.view.ViewGroup","","xpath=//android.widget.Button[@content-desc='continue']",

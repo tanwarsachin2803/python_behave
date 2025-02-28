@@ -1,0 +1,12 @@
+{
+    "local":{
+        "platformName": "iOS",
+        "deviceName": "iPhone 14",
+        "app": "com.apple.calculator"
+    },
+    "virtual":{
+        "platformName": "iOS",
+        "deviceName": "iPhone 14",
+        "app": "com.apple.calculator"
+    }
+}
